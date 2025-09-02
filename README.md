@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @Muenijohn
-- 👀 I’m interested in solving problems through coding and debugging too.
-- 🌱 I’m currently learning mobile application, web development and system development.
-- 💞️ I’m looking to collaborate on any code-related task, to grow and to learn more skills and share what I have to offer.
-- 📫 How to reach me: Email: pmueni592@gmail.com and personal Contact:0701933089.
+👋 Hi, I’m @Muenijohn
+📊 Certified Analyst | Aspiring Data Scientist
+🔍 Passionate about turning data into insights & decisions
+💡 Exploring Python, SQL, Machine Learning & PowerBI
+📚 Avid reader — always learning from books & beyond
+📫 How to reach me: Email: pmueni592@gmail.com and personal Contact:0701933089.
 
 <!---
 Muenijohn/Muenijohn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
